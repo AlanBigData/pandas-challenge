@@ -1,6 +1,5 @@
 # Pandas - Challenge 4:
 ## **Completed By: Alan Lawrence** <br>
-- **Date: 11/20/2023**
 ### 1.) ***[PyCitySchools - Jupiter Notebook Script Link:](https://github.com/AlanBigData/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_alan_complete.ipynb)***<br>
 
 ### 2.) ***Exported CSV Files For the School Summary's:***
