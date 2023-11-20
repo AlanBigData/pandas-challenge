@@ -1,6 +1,6 @@
-# Alan Lawrence: Pandas-Challenge 4 Homework!
-
-## List of Scripts:
+# Pandas - Challenge 4:
+## Completed By: ###Alan Lawrence
+## Date: ###11/20/2023
 ### 1.) ***[PyCitySchools - Jupiter Notebook Script Link:](https://github.com/AlanBigData/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_alan_complete.ipynb)***<br>
 
 ### 2.) ***Exported CSV Files For the School Summary's:***
